@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ONALL-NCODEe
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Software Engineering in Can Tho University
+- 🌱 I’m currently learning Software Engineering at Can Tho University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
